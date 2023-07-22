@@ -2,9 +2,9 @@ import streamlit as st
 from PIL import Image
 import tensorflow as tf
 import numpy as np
-import cv2 as cv
 import requests
 import os
+import cv2 as cv
 
 def download_file_from_url(url, output_path):
     with requests.get(url, stream=True) as r:
