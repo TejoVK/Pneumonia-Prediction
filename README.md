@@ -11,7 +11,7 @@ To run the Pneumonia Detection System locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/Pneumonia-Detection-System.git
+   git clone https://github.com/TejoVK/Pneumonia-Prediction.git
    ```
 2. **Install the required Python packages:**
    ```bash
