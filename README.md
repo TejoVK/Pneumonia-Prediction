@@ -23,10 +23,10 @@ To run the Pneumonia Detection System locally, follow these steps:
    ```
 This will launch the web application locally.
 
-##Usage
+## Usage
 1. Navigate to the provided URL to run the Streamlit app.
 2. Choose a chest X-ray image file (in PNG, JPG, or JPEG format) for analysis.
 3. Click the "Classify" button to let the model predict whether pneumonia is detected or not.
 
-##Model Details
+## Model Details
 The CNN model used in this project is trained to classify chest X-ray images. The model details, including layers and architecture, can be found in the model summary section of the Streamlit app.
