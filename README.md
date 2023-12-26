@@ -10,4 +10,11 @@ To run the Pneumonia Detection System, follow these steps:
    ```bash
    git clone https://github.com/YourUsername/Pneumonia-Detection-System.git
    ```
-2. 
+2. **Install the required Python packages:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the Streamlit app:**
+   ```bash
+   streamlit run bio.py
+   ```
